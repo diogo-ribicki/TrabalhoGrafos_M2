@@ -1,0 +1,9 @@
+TESTES DE REFERÊNCIA
+
+1) Arquivo: exemplo_grafo_n_n.txt
+Cabeçalho: 5 6 0 0
+Esperado para coloração: 3 cores (existe um triângulo entre os vértices 0, 1 e 2).
+Esperado para Prim e Kruskal: soma 4, pois são necessárias 4 arestas de peso 1 para conectar 5 vértices.
+
+
+Observação: os tempos dependem do computador e não possuem um valor fixo esperado.

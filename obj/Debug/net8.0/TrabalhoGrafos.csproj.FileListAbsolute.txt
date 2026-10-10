@@ -1,0 +1,14 @@
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\bin\Debug\net8.0\TrabalhoGrafos.exe
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\bin\Debug\net8.0\TrabalhoGrafos.deps.json
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\bin\Debug\net8.0\TrabalhoGrafos.runtimeconfig.json
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\bin\Debug\net8.0\TrabalhoGrafos.dll
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\bin\Debug\net8.0\TrabalhoGrafos.pdb
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.AssemblyInfoInputs.cache
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.AssemblyInfo.cs
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.csproj.CoreCompileInputs.cache
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.dll
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\refint\TrabalhoGrafos.dll
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.pdb
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.genruntimeconfig.cache
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\ref\TrabalhoGrafos.dll

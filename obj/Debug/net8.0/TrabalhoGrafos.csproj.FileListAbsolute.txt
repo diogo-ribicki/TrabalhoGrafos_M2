@@ -12,3 +12,4 @@ C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\re
 C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.pdb
 C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.genruntimeconfig.cache
 C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\ref\TrabalhoGrafos.dll
+C:\Users\drrib\Downloads\TrabalhoGrafos_M2\TrabalhoGrafos_M2\obj\Debug\net8.0\TrabalhoGrafos.sourcelink.json
